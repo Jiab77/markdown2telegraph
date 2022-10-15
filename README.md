@@ -6,4 +6,4 @@ It is based on [telegraph.md](https://github.com/telegraf/telegraph.md) and [tel
 
 You can check the code [here](https://github.com/Jiab77/md2tg/blob/main/index.js).
 
-> The code is still quite _experimental_ at the moment... Please don't use it yet.
+> The code is still quite __experimental__ at the moment... Please don't use it yet.
