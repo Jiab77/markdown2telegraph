@@ -12,8 +12,8 @@
     "url": "https://github.com/Jiab77/md2tg.git"
   },
   "keywords": [
-    "markdown",
     "nodejs",
+    "markdown",
     "telegraph"
   ],
   "main": "index.js",
