@@ -1,0 +1,30 @@
+{
+  "name": "md2tg",
+  "version": "0.0.1",
+  "description": "A small NodeJS binary that takes a markdown file and publish it on https://telegra.ph",
+  "author": {
+    "name": "Jiab77"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jiab77/md2tg.git"
+  },
+  "keywords": [
+    "markdown",
+    "nodejs",
+    "telegraph"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "telegra.ph": "^1.0.1",
+    "telegraph.md": "^0.0.1",
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
